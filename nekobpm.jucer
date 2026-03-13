@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="k8H9RK" name="NekoBPM" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginManufacturer="suzuya"
+              pluginName="NekoBPM" pluginDesc="NekoBPM">
+  <MAINGROUP id="JKrwDZ" name="NekoBPM">
+    <GROUP id="{96638668-2181-8D4D-0B4A-29CE6B182422}" name="Resource">
+      <GROUP id="{373051E4-8561-2BE7-2885-60F014204906}" name="NekoFrames">
+        <FILE id="zuklA8" name="neko_001.png" compile="0" resource="1" file="Resource/NekoFrames/neko_001.png"/>
+        <FILE id="tlML5f" name="neko_002.png" compile="0" resource="1" file="Resource/NekoFrames/neko_002.png"/>
+        <FILE id="bC8WdF" name="neko_003.png" compile="0" resource="1" file="Resource/NekoFrames/neko_003.png"/>
+        <FILE id="tPEwLs" name="neko_004.png" compile="0" resource="1" file="Resource/NekoFrames/neko_004.png"/>
+        <FILE id="JoWDZk" name="neko_005.png" compile="0" resource="1" file="Resource/NekoFrames/neko_005.png"/>
+        <FILE id="SSji4V" name="neko_006.png" compile="0" resource="1" file="Resource/NekoFrames/neko_006.png"/>
+        <FILE id="sXL78H" name="neko_007.png" compile="0" resource="1" file="Resource/NekoFrames/neko_007.png"/>
+        <FILE id="BkIMWm" name="neko_008.png" compile="0" resource="1" file="Resource/NekoFrames/neko_008.png"/>
+        <FILE id="OWBolp" name="neko_009.png" compile="0" resource="1" file="Resource/NekoFrames/neko_009.png"/>
+        <FILE id="qD4Euk" name="neko_010.png" compile="0" resource="1" file="Resource/NekoFrames/neko_010.png"/>
+        <FILE id="mHOmZb" name="neko_011.png" compile="0" resource="1" file="Resource/NekoFrames/neko_011.png"/>
+        <FILE id="idRBwK" name="neko_012.png" compile="0" resource="1" file="Resource/NekoFrames/neko_012.png"/>
+        <FILE id="KQw16b" name="neko_013.png" compile="0" resource="1" file="Resource/NekoFrames/neko_013.png"/>
+        <FILE id="AV0MkN" name="neko_014.png" compile="0" resource="1" file="Resource/NekoFrames/neko_014.png"/>
+        <FILE id="QJlssR" name="neko_015.png" compile="0" resource="1" file="Resource/NekoFrames/neko_015.png"/>
+        <FILE id="kKLqDJ" name="neko_016.png" compile="0" resource="1" file="Resource/NekoFrames/neko_016.png"/>
+        <FILE id="jhrfd0" name="neko_017.png" compile="0" resource="1" file="Resource/NekoFrames/neko_017.png"/>
+        <FILE id="DjMdOp" name="neko_018.png" compile="0" resource="1" file="Resource/NekoFrames/neko_018.png"/>
+        <FILE id="SC3xrC" name="neko_019.png" compile="0" resource="1" file="Resource/NekoFrames/neko_019.png"/>
+        <FILE id="dhDpP4" name="neko_020.png" compile="0" resource="1" file="Resource/NekoFrames/neko_020.png"/>
+        <FILE id="ri3vWz" name="neko_021.png" compile="0" resource="1" file="Resource/NekoFrames/neko_021.png"/>
+        <FILE id="lN1bQh" name="neko_022.png" compile="0" resource="1" file="Resource/NekoFrames/neko_022.png"/>
+        <FILE id="HPUBsX" name="neko_023.png" compile="0" resource="1" file="Resource/NekoFrames/neko_023.png"/>
+        <FILE id="sjlhoH" name="neko_024.png" compile="0" resource="1" file="Resource/NekoFrames/neko_024.png"/>
+        <FILE id="frz25T" name="neko_025.png" compile="0" resource="1" file="Resource/NekoFrames/neko_025.png"/>
+        <FILE id="tUQsJ2" name="neko_026.png" compile="0" resource="1" file="Resource/NekoFrames/neko_026.png"/>
+        <FILE id="XQJG4e" name="neko_027.png" compile="0" resource="1" file="Resource/NekoFrames/neko_027.png"/>
+        <FILE id="QdZlWP" name="neko_028.png" compile="0" resource="1" file="Resource/NekoFrames/neko_028.png"/>
+        <FILE id="VLQKMS" name="neko_029.png" compile="0" resource="1" file="Resource/NekoFrames/neko_029.png"/>
+        <FILE id="Wc2OMd" name="neko_030.png" compile="0" resource="1" file="Resource/NekoFrames/neko_030.png"/>
+        <FILE id="KVNh34" name="neko_031.png" compile="0" resource="1" file="Resource/NekoFrames/neko_031.png"/>
+        <FILE id="ek4A1R" name="neko_032.png" compile="0" resource="1" file="Resource/NekoFrames/neko_032.png"/>
+        <FILE id="lRYGcs" name="neko_033.png" compile="0" resource="1" file="Resource/NekoFrames/neko_033.png"/>
+        <FILE id="WGvch1" name="neko_034.png" compile="0" resource="1" file="Resource/NekoFrames/neko_034.png"/>
+        <FILE id="m0mCHc" name="neko_035.png" compile="0" resource="1" file="Resource/NekoFrames/neko_035.png"/>
+        <FILE id="bVfXIp" name="neko_036.png" compile="0" resource="1" file="Resource/NekoFrames/neko_036.png"/>
+        <FILE id="wKZDQL" name="neko_037.png" compile="0" resource="1" file="Resource/NekoFrames/neko_037.png"/>
+        <FILE id="gFAUIT" name="neko_038.png" compile="0" resource="1" file="Resource/NekoFrames/neko_038.png"/>
+        <FILE id="CjBg7J" name="neko_039.png" compile="0" resource="1" file="Resource/NekoFrames/neko_039.png"/>
+        <FILE id="CPWjDr" name="neko_040.png" compile="0" resource="1" file="Resource/NekoFrames/neko_040.png"/>
+        <FILE id="bMGVCA" name="neko_041.png" compile="0" resource="1" file="Resource/NekoFrames/neko_041.png"/>
+        <FILE id="jIhNTh" name="neko_042.png" compile="0" resource="1" file="Resource/NekoFrames/neko_042.png"/>
+        <FILE id="wd8Has" name="neko_043.png" compile="0" resource="1" file="Resource/NekoFrames/neko_043.png"/>
+        <FILE id="Jf4IQH" name="neko_044.png" compile="0" resource="1" file="Resource/NekoFrames/neko_044.png"/>
+        <FILE id="JOhffg" name="neko_045.png" compile="0" resource="1" file="Resource/NekoFrames/neko_045.png"/>
+        <FILE id="QNZ5wV" name="neko_046.png" compile="0" resource="1" file="Resource/NekoFrames/neko_046.png"/>
+        <FILE id="WBOKSY" name="neko_047.png" compile="0" resource="1" file="Resource/NekoFrames/neko_047.png"/>
+        <FILE id="HNuFQn" name="neko_048.png" compile="0" resource="1" file="Resource/NekoFrames/neko_048.png"/>
+        <FILE id="sMm45f" name="neko_049.png" compile="0" resource="1" file="Resource/NekoFrames/neko_049.png"/>
+        <FILE id="DyqUI3" name="neko_050.png" compile="0" resource="1" file="Resource/NekoFrames/neko_050.png"/>
+        <FILE id="hLfCAU" name="neko_051.png" compile="0" resource="1" file="Resource/NekoFrames/neko_051.png"/>
+        <FILE id="erE83Z" name="neko_052.png" compile="0" resource="1" file="Resource/NekoFrames/neko_052.png"/>
+        <FILE id="E4YZKy" name="neko_053.png" compile="0" resource="1" file="Resource/NekoFrames/neko_053.png"/>
+        <FILE id="uc5wVg" name="neko_054.png" compile="0" resource="1" file="Resource/NekoFrames/neko_054.png"/>
+        <FILE id="I6aoQp" name="neko_055.png" compile="0" resource="1" file="Resource/NekoFrames/neko_055.png"/>
+        <FILE id="en61PG" name="neko_056.png" compile="0" resource="1" file="Resource/NekoFrames/neko_056.png"/>
+        <FILE id="iKrRh4" name="neko_057.png" compile="0" resource="1" file="Resource/NekoFrames/neko_057.png"/>
+        <FILE id="rz9g5T" name="neko_058.png" compile="0" resource="1" file="Resource/NekoFrames/neko_058.png"/>
+        <FILE id="XXOKgt" name="neko_059.png" compile="0" resource="1" file="Resource/NekoFrames/neko_059.png"/>
+        <FILE id="dJRm6t" name="neko_060.png" compile="0" resource="1" file="Resource/NekoFrames/neko_060.png"/>
+        <FILE id="c4y8It" name="neko_061.png" compile="0" resource="1" file="Resource/NekoFrames/neko_061.png"/>
+        <FILE id="CTodC6" name="neko_062.png" compile="0" resource="1" file="Resource/NekoFrames/neko_062.png"/>
+        <FILE id="SxxGNJ" name="neko_063.png" compile="0" resource="1" file="Resource/NekoFrames/neko_063.png"/>
+        <FILE id="GV2tM8" name="neko_064.png" compile="0" resource="1" file="Resource/NekoFrames/neko_064.png"/>
+        <FILE id="qmbA6c" name="neko_065.png" compile="0" resource="1" file="Resource/NekoFrames/neko_065.png"/>
+        <FILE id="rQ0C22" name="neko_066.png" compile="0" resource="1" file="Resource/NekoFrames/neko_066.png"/>
+        <FILE id="tLokWo" name="neko_067.png" compile="0" resource="1" file="Resource/NekoFrames/neko_067.png"/>
+        <FILE id="ow4apS" name="neko_068.png" compile="0" resource="1" file="Resource/NekoFrames/neko_068.png"/>
+        <FILE id="Hn3bHm" name="neko_069.png" compile="0" resource="1" file="Resource/NekoFrames/neko_069.png"/>
+        <FILE id="uXMIA1" name="neko_070.png" compile="0" resource="1" file="Resource/NekoFrames/neko_070.png"/>
+        <FILE id="VEP5b3" name="neko_071.png" compile="0" resource="1" file="Resource/NekoFrames/neko_071.png"/>
+        <FILE id="BfGkvb" name="neko_072.png" compile="0" resource="1" file="Resource/NekoFrames/neko_072.png"/>
+        <FILE id="kPR9YY" name="neko_073.png" compile="0" resource="1" file="Resource/NekoFrames/neko_073.png"/>
+        <FILE id="Utmawj" name="neko_074.png" compile="0" resource="1" file="Resource/NekoFrames/neko_074.png"/>
+        <FILE id="hfl3UN" name="neko_075.png" compile="0" resource="1" file="Resource/NekoFrames/neko_075.png"/>
+        <FILE id="jeRNxL" name="neko_076.png" compile="0" resource="1" file="Resource/NekoFrames/neko_076.png"/>
+        <FILE id="o5Ko8V" name="neko_077.png" compile="0" resource="1" file="Resource/NekoFrames/neko_077.png"/>
+        <FILE id="C8Btc9" name="neko_078.png" compile="0" resource="1" file="Resource/NekoFrames/neko_078.png"/>
+        <FILE id="vp4GON" name="neko_079.png" compile="0" resource="1" file="Resource/NekoFrames/neko_079.png"/>
+        <FILE id="FksiI8" name="neko_080.png" compile="0" resource="1" file="Resource/NekoFrames/neko_080.png"/>
+        <FILE id="a9H6bK" name="neko_081.png" compile="0" resource="1" file="Resource/NekoFrames/neko_081.png"/>
+        <FILE id="ozWCNJ" name="neko_082.png" compile="0" resource="1" file="Resource/NekoFrames/neko_082.png"/>
+        <FILE id="XLF09m" name="neko_083.png" compile="0" resource="1" file="Resource/NekoFrames/neko_083.png"/>
+        <FILE id="fPBiv1" name="neko_084.png" compile="0" resource="1" file="Resource/NekoFrames/neko_084.png"/>
+        <FILE id="ktBwur" name="neko_085.png" compile="0" resource="1" file="Resource/NekoFrames/neko_085.png"/>
+        <FILE id="fD5Gsd" name="neko_086.png" compile="0" resource="1" file="Resource/NekoFrames/neko_086.png"/>
+        <FILE id="RvWPmA" name="neko_087.png" compile="0" resource="1" file="Resource/NekoFrames/neko_087.png"/>
+        <FILE id="hYSwil" name="neko_088.png" compile="0" resource="1" file="Resource/NekoFrames/neko_088.png"/>
+        <FILE id="LejmOw" name="neko_089.png" compile="0" resource="1" file="Resource/NekoFrames/neko_089.png"/>
+        <FILE id="UXvdsq" name="neko_090.png" compile="0" resource="1" file="Resource/NekoFrames/neko_090.png"/>
+        <FILE id="upNgsN" name="neko_091.png" compile="0" resource="1" file="Resource/NekoFrames/neko_091.png"/>
+        <FILE id="FdcpXq" name="neko_092.png" compile="0" resource="1" file="Resource/NekoFrames/neko_092.png"/>
+        <FILE id="XFNoVd" name="neko_093.png" compile="0" resource="1" file="Resource/NekoFrames/neko_093.png"/>
+        <FILE id="M5lRCu" name="neko_094.png" compile="0" resource="1" file="Resource/NekoFrames/neko_094.png"/>
+        <FILE id="D5SWAR" name="neko_095.png" compile="0" resource="1" file="Resource/NekoFrames/neko_095.png"/>
+        <FILE id="vNnz1f" name="neko_096.png" compile="0" resource="1" file="Resource/NekoFrames/neko_096.png"/>
+        <FILE id="zmkQcQ" name="neko_097.png" compile="0" resource="1" file="Resource/NekoFrames/neko_097.png"/>
+        <FILE id="lRxbXv" name="neko_098.png" compile="0" resource="1" file="Resource/NekoFrames/neko_098.png"/>
+        <FILE id="S3NL2t" name="neko_099.png" compile="0" resource="1" file="Resource/NekoFrames/neko_099.png"/>
+        <FILE id="OhSxPh" name="neko_100.png" compile="0" resource="1" file="Resource/NekoFrames/neko_100.png"/>
+        <FILE id="RGK71c" name="neko_101.png" compile="0" resource="1" file="Resource/NekoFrames/neko_101.png"/>
+        <FILE id="ZjElIO" name="neko_102.png" compile="0" resource="1" file="Resource/NekoFrames/neko_102.png"/>
+        <FILE id="lJbjLS" name="neko_103.png" compile="0" resource="1" file="Resource/NekoFrames/neko_103.png"/>
+        <FILE id="r24Pt6" name="neko_104.png" compile="0" resource="1" file="Resource/NekoFrames/neko_104.png"/>
+        <FILE id="IOIfmW" name="neko_105.png" compile="0" resource="1" file="Resource/NekoFrames/neko_105.png"/>
+        <FILE id="ZXGqBN" name="neko_106.png" compile="0" resource="1" file="Resource/NekoFrames/neko_106.png"/>
+        <FILE id="v0MmvS" name="neko_107.png" compile="0" resource="1" file="Resource/NekoFrames/neko_107.png"/>
+        <FILE id="Kx9QZ8" name="neko_108.png" compile="0" resource="1" file="Resource/NekoFrames/neko_108.png"/>
+        <FILE id="ABTigU" name="neko_109.png" compile="0" resource="1" file="Resource/NekoFrames/neko_109.png"/>
+        <FILE id="xCoJlp" name="neko_110.png" compile="0" resource="1" file="Resource/NekoFrames/neko_110.png"/>
+        <FILE id="rhC8La" name="neko_111.png" compile="0" resource="1" file="Resource/NekoFrames/neko_111.png"/>
+        <FILE id="P8zUIZ" name="neko_112.png" compile="0" resource="1" file="Resource/NekoFrames/neko_112.png"/>
+        <FILE id="QUEF5s" name="neko_113.png" compile="0" resource="1" file="Resource/NekoFrames/neko_113.png"/>
+        <FILE id="lzt24t" name="neko_114.png" compile="0" resource="1" file="Resource/NekoFrames/neko_114.png"/>
+        <FILE id="XoIOka" name="neko_115.png" compile="0" resource="1" file="Resource/NekoFrames/neko_115.png"/>
+        <FILE id="qc2y0l" name="neko_116.png" compile="0" resource="1" file="Resource/NekoFrames/neko_116.png"/>
+        <FILE id="co4Qyg" name="neko_117.png" compile="0" resource="1" file="Resource/NekoFrames/neko_117.png"/>
+        <FILE id="ScAqF8" name="neko_118.png" compile="0" resource="1" file="Resource/NekoFrames/neko_118.png"/>
+        <FILE id="vTW8Hu" name="neko_119.png" compile="0" resource="1" file="Resource/NekoFrames/neko_119.png"/>
+        <FILE id="vmUGdT" name="neko_120.png" compile="0" resource="1" file="Resource/NekoFrames/neko_120.png"/>
+        <FILE id="KMXi6e" name="neko_121.png" compile="0" resource="1" file="Resource/NekoFrames/neko_121.png"/>
+        <FILE id="m6A3XG" name="neko_122.png" compile="0" resource="1" file="Resource/NekoFrames/neko_122.png"/>
+        <FILE id="VQyir5" name="neko_123.png" compile="0" resource="1" file="Resource/NekoFrames/neko_123.png"/>
+        <FILE id="uYNkUj" name="neko_124.png" compile="0" resource="1" file="Resource/NekoFrames/neko_124.png"/>
+        <FILE id="z93VzE" name="neko_125.png" compile="0" resource="1" file="Resource/NekoFrames/neko_125.png"/>
+        <FILE id="IgFLuv" name="neko_126.png" compile="0" resource="1" file="Resource/NekoFrames/neko_126.png"/>
+        <FILE id="AiW4pJ" name="neko_127.png" compile="0" resource="1" file="Resource/NekoFrames/neko_127.png"/>
+        <FILE id="taS6hL" name="neko_128.png" compile="0" resource="1" file="Resource/NekoFrames/neko_128.png"/>
+        <FILE id="BuY1qJ" name="neko_129.png" compile="0" resource="1" file="Resource/NekoFrames/neko_129.png"/>
+        <FILE id="sMIN5x" name="neko_130.png" compile="0" resource="1" file="Resource/NekoFrames/neko_130.png"/>
+        <FILE id="uYL7BY" name="neko_131.png" compile="0" resource="1" file="Resource/NekoFrames/neko_131.png"/>
+        <FILE id="t68jZD" name="neko_132.png" compile="0" resource="1" file="Resource/NekoFrames/neko_132.png"/>
+        <FILE id="x8NCIO" name="neko_133.png" compile="0" resource="1" file="Resource/NekoFrames/neko_133.png"/>
+        <FILE id="yYAlM8" name="neko_134.png" compile="0" resource="1" file="Resource/NekoFrames/neko_134.png"/>
+        <FILE id="QtFraE" name="neko_135.png" compile="0" resource="1" file="Resource/NekoFrames/neko_135.png"/>
+        <FILE id="jjvme2" name="neko_136.png" compile="0" resource="1" file="Resource/NekoFrames/neko_136.png"/>
+        <FILE id="RZsVt5" name="neko_137.png" compile="0" resource="1" file="Resource/NekoFrames/neko_137.png"/>
+        <FILE id="jNyM0C" name="neko_138.png" compile="0" resource="1" file="Resource/NekoFrames/neko_138.png"/>
+        <FILE id="Ze4Y7R" name="neko_139.png" compile="0" resource="1" file="Resource/NekoFrames/neko_139.png"/>
+        <FILE id="AwUGNq" name="neko_140.png" compile="0" resource="1" file="Resource/NekoFrames/neko_140.png"/>
+        <FILE id="oBk15C" name="neko_141.png" compile="0" resource="1" file="Resource/NekoFrames/neko_141.png"/>
+        <FILE id="eivVek" name="neko_142.png" compile="0" resource="1" file="Resource/NekoFrames/neko_142.png"/>
+        <FILE id="xbflO6" name="neko_143.png" compile="0" resource="1" file="Resource/NekoFrames/neko_143.png"/>
+        <FILE id="yUi3Rt" name="neko_144.png" compile="0" resource="1" file="Resource/NekoFrames/neko_144.png"/>
+        <FILE id="hnoSo3" name="neko_145.png" compile="0" resource="1" file="Resource/NekoFrames/neko_145.png"/>
+        <FILE id="YBZIn0" name="neko_146.png" compile="0" resource="1" file="Resource/NekoFrames/neko_146.png"/>
+        <FILE id="bB9cgF" name="neko_147.png" compile="0" resource="1" file="Resource/NekoFrames/neko_147.png"/>
+        <FILE id="v2EjWj" name="neko_148.png" compile="0" resource="1" file="Resource/NekoFrames/neko_148.png"/>
+        <FILE id="ylq9VG" name="neko_149.png" compile="0" resource="1" file="Resource/NekoFrames/neko_149.png"/>
+        <FILE id="UgjYaD" name="neko_150.png" compile="0" resource="1" file="Resource/NekoFrames/neko_150.png"/>
+        <FILE id="kBrtk4" name="neko_151.png" compile="0" resource="1" file="Resource/NekoFrames/neko_151.png"/>
+        <FILE id="MicUkF" name="neko_152.png" compile="0" resource="1" file="Resource/NekoFrames/neko_152.png"/>
+        <FILE id="xqJc5F" name="neko_153.png" compile="0" resource="1" file="Resource/NekoFrames/neko_153.png"/>
+        <FILE id="hnBVoO" name="neko_154.png" compile="0" resource="1" file="Resource/NekoFrames/neko_154.png"/>
+        <FILE id="iEdS6w" name="neko_155.png" compile="0" resource="1" file="Resource/NekoFrames/neko_155.png"/>
+        <FILE id="swiD1U" name="neko_156.png" compile="0" resource="1" file="Resource/NekoFrames/neko_156.png"/>
+        <FILE id="I9w9BX" name="neko_157.png" compile="0" resource="1" file="Resource/NekoFrames/neko_157.png"/>
+        <FILE id="K57jOL" name="neko_158.png" compile="0" resource="1" file="Resource/NekoFrames/neko_158.png"/>
+      </GROUP>
+    </GROUP>
+    <GROUP id="{19FCDA29-8A4A-5B5D-E1B4-C921EACA2C00}" name="Source"/>
+    <FILE id="l0zMCL" name="JucePluginMain.cpp" compile="1" resource="0"
+          file="Source/JucePluginMain.cpp"/>
+    <FILE id="sKnmKo" name="NekoBPMPluginEditor.cpp" compile="1" resource="0"
+          file="Source/NekoBPMPluginEditor.cpp"/>
+    <FILE id="Psadyd" name="NekoBPMPluginEditor.h" compile="0" resource="0"
+          file="Source/NekoBPMPluginEditor.h"/>
+    <FILE id="serTjm" name="NekoBPMPluginProcessor.cpp" compile="1" resource="0"
+          file="Source/NekoBPMPluginProcessor.cpp"/>
+    <FILE id="AdxBMD" name="NekoBPMPluginProcessor.h" compile="0" resource="0"
+          file="Source/NekoBPMPluginProcessor.h"/>
+  </MAINGROUP>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2022 targetFolder="Builds/VisualStudio2022">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="NekoBPM"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="NekoBPM"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../juce-8.0.10-windows/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../juce-8.0.10-windows/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2022>
+  </EXPORTFORMATS>
+</JUCERPROJECT>
